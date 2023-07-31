@@ -5,3 +5,7 @@ def simple(request):
     return render(request, 'simple.html',{})
 asdadasd
 aaaaaaaaaaaaaaaaaaaaaaaaaa
+
+asdadasd
+
+asdasdasdasdasdsa
